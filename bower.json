@@ -1,0 +1,7 @@
+{
+  "name": "sphinx-rtd-css",
+  "description": "Provides compiled CSS from Sphinx RTD Theme",
+  "main": "",
+  "license": "MIT",
+  "homepage": ""
+}
